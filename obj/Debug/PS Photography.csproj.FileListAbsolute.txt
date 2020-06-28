@@ -1,0 +1,5 @@
+C:\Users\Kavinz Milk\Documents\Visual Studio 2019\Projects\ASP Projects\PS Photography\PS Photography\bin\PS Photography.dll
+C:\Users\Kavinz Milk\Documents\Visual Studio 2019\Projects\ASP Projects\PS Photography\PS Photography\bin\PS Photography.pdb
+C:\Users\Kavinz Milk\Documents\Visual Studio 2019\Projects\ASP Projects\PS Photography\PS Photography\obj\Debug\PS Photography.csprojResolveAssemblyReference.cache
+C:\Users\Kavinz Milk\Documents\Visual Studio 2019\Projects\ASP Projects\PS Photography\PS Photography\obj\Debug\PS Photography.dll
+C:\Users\Kavinz Milk\Documents\Visual Studio 2019\Projects\ASP Projects\PS Photography\PS Photography\obj\Debug\PS Photography.pdb
